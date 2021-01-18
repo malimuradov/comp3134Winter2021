@@ -1,0 +1,4 @@
+Ping statistics for 138.197.174.160:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 17ms, Maximum = 737ms, Average = 197ms

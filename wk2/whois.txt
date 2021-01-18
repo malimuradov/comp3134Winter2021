@@ -1,0 +1,47 @@
+
+// 1 //
+Domain:whois.com
+Name:Domain Administrator
+Organization:Whois Digital Pte Ltd
+Street:9A Jasmine Road
+City:Singapore
+State:Singapore
+Postal Code:576582
+Country:SG
+Phone:+65.31507504
+Email:email@whois.com
+// 2 //
+Domain:google.com
+Organization:Google LLC
+State:CA
+Country:US
+Email:Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+// 3 //
+Domain:georgebrown.ca
+Name:George Brown College (Toronto)
+Street:P.O. Box 1015 Station B
+City:Toronto
+State:ON
+Postal Code:M5T2T9
+Country:CA
+Phone:+1.4164155000
+Fax:+1.4164154667
+Email:email@georgebrown.ca
+// 4 //
+Domain:linkedin.com
+Name:Host Master
+Organization:LinkedIn Corporation
+Street:1000 W. Maude Ave,
+City:Sunnyvale
+State:CA
+Postal Code:94085
+Country:US
+Phone:+1.6506873600
+Fax:+1.6506870505
+Email:email@linkedin.com
+// 5 //
+Domain:github.com
+Organization:GitHub, Inc.
+State:CA
+Country:US
+Email:Select Request Email Form at https://domains.markmonitor.com/whois/github.com

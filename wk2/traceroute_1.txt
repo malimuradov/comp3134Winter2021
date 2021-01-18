@@ -1,0 +1,20 @@
+traceroute 103.49.91.239
+traceroute to 103.49.91.239 (103.49.91.239), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.78.6.91 (10.78.6.91)  1.166 ms 10.78.4.0 (10.78.4.0)  1.351 ms 10.78.4.2 (10.78.4.2)  1.337 ms
+ 3  138.197.249.86 (138.197.249.86)  1.067 ms 138.197.249.90 (138.197.249.90)  1.309 ms  1.295 ms
+ 4  ix-ae-4-0.tcore1.tnk-toronto.as6453.net (63.243.172.33)  1.341 ms *  1.314 ms
+ 5  if-ae-2-2.tcore2.tnk-toronto.as6453.net (64.86.33.90)  72.421 ms  72.504 ms  72.391 ms
+ 6  if-ae-8-2.tcore1.ct8-chicago.as6453.net (66.110.48.2)  74.776 ms  73.800 ms  73.763 ms
+ 7  if-ae-22-2.tcore2.ct8-chicago.as6453.net (64.86.79.1)  82.852 ms  82.827 ms  82.814 ms
+ 8  if-ae-51-2.tcore2.sqn-sanjose.as6453.net (64.86.79.15)  92.388 ms if-ae-52-55.tcore2.sqn-sanjose.as6453.net (63.243.129.21)  74.459 ms if-ae-20-4.tcore1.sv1-santaclara.as6453.net (63.243.251.58)  82.716 ms
+ 9  if-ae-18-2.tcore2.sv1-santaclara.as6453.net (63.243.205.73)  77.342 ms if-ae-1-2.tcore1.sqn-sanjose.as6453.net (63.243.205.1)  71.985 ms  71.962 ms
+10  if-ae-18-2.tcore2.sv1-santaclara.as6453.net (63.243.205.73)  71.942 ms  73.644 ms if-ae-30-2.tcore1.eql-losangeles.as6453.net (206.82.129.18)  83.199 ms
+11  if-ae-0-2.tcore1.sv1-santaclara.as6453.net (63.243.251.1)  71.807 ms  73.648 ms if-ae-0-3.tcore1.sv1-santaclara.as6453.net (63.243.250.60)  73.455 ms
+12  if-ae-60-2.tcore1.lvw-losangeles.as6453.net (63.243.250.55)  73.686 ms if-ae-8-5.tcore1.lvw-losangeles.as6453.net (63.243.250.63)  71.792 ms ngy006bb10.IIJ.Net (58.138.89.33)  183.117 ms
+13  if-ae-30-2.tcore1.eql-losangeles.as6453.net (206.82.129.18)  73.886 ms 206.82.129.86 (206.82.129.86)  68.043 ms if-ae-30-2.tcore1.eql-losangeles.as6453.net (206.82.129.18)  72.201 ms
+14  snd004ip60.IIJ.Net (58.138.117.146)  187.960 ms ngy006bb10.IIJ.Net (58.138.89.33)  173.326 ms 206.82.129.86 (206.82.129.86)  66.352 ms
+15  ngy006bb10.IIJ.Net (58.138.89.33)  171.645 ms 210.130.153.102 (210.130.153.102)  197.129 ms ngy006bb10.IIJ.Net (58.138.89.33)  173.486 ms
+16  snd004ip60.IIJ.Net (58.138.117.162)  178.833 ms snd004bb00.IIJ.Net (58.138.83.18)  177.099 ms *
+17  snd004ip60.IIJ.Net (58.138.117.146)  176.978 ms snd004ip60.IIJ.Net (58.138.117.162)  176.722 ms 210.130.153.102 (210.130.153.102)  188.303 ms
+18  * 210.130.153.102 (210.130.153.102)  188.261 ms 
