@@ -1,0 +1,16 @@
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+17:47:07.731963 IP 138.197.174.160.ssh > 45-72-205-4.cpe.teksavvy.com.51699: Flags [P.], seq 3593666129:3593666193, ack 937808132, win 63072, length 64
+17:47:07.732043 IP 138.197.174.160.ssh > 45-72-205-4.cpe.teksavvy.com.51699: Flags [P.], seq 64:192, ack 1, win 63072, length 128
+17:47:07.732099 IP 138.197.174.160.ssh > 45-72-205-4.cpe.teksavvy.com.51699: Flags [P.], seq 192:256, ack 1, win 63072, length 64
+17:47:07.763212 IP 45-72-205-4.cpe.teksavvy.com.51699 > 138.197.174.160.ssh: Flags [.], ack 256, win 63392, length 0
+17:47:08.975574 IP 138.197.174.160.ssh > 121.5.75.105.42818: Flags [P.], seq 2867359457:2867359525, ack 3974481607, win 507, options [nop,nop,TS val 1742866715 ecr 311695832], length 68
+17:47:09.200392 IP 121.5.75.105.42818 > 138.197.174.160.ssh: Flags [.], ack 68, win 262, options [nop,nop,TS val 311768356 ecr 1742866715,nop,nop,sack 1 {0:68}], length 0
+17:47:09.200437 IP 138.197.174.160 > 121.5.75.105: ICMP 138.197.174.160 tcp port ssh unreachable, length 72
+17:47:11.970169 IP 45-72-205-4.cpe.teksavvy.com.51699 > 138.197.174.160.ssh: Flags [P.], seq 1:65, ack 256, win 63392, length 64
+17:47:11.970220 IP 138.197.174.160.ssh > 45-72-205-4.cpe.teksavvy.com.51699: Flags [.], ack 65, win 63072, length 0
+17:47:11.970388 IP 138.197.174.160.ssh > 45-72-205-4.cpe.teksavvy.com.51699: Flags [P.], seq 256:320, ack 65, win 63072, length 64
+17:47:12.030283 IP 45-72-205-4.cpe.teksavvy.com.51699 > 138.197.174.160.ssh: Flags [.], ack 320, win 63328, length 0
+17:47:12.908208 IP 45-72-205-4.cpe.teksavvy.com.51699 > 138.197.174.160.ssh: Flags [P.], seq 65:129, ack 320, win 63328, length 64
+17:47:12.908426 IP 138.197.174.160.ssh > 45-72-205-4.cpe.teksavvy.com.51699: Flags [P.], seq 320:384, ack 129, win 63072, length 64
+17:47:12.970363 IP 45-72-205-4.cpe.teksavvy.com.51699 > 138.197.174.160.ssh: Flags [.], ack 384, win 63264, length 0
+

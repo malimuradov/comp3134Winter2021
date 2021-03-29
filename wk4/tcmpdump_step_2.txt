@@ -1,0 +1,10 @@
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+17:39:04.845124 IP 138.197.174.160.ssh > 45-72-205-4.cpe.teksavvy.com.51699: Flags [P.], seq 3589277809:3589277937, ack 937799140, win 63072, length 128
+17:39:04.845185 IP 138.197.174.160.ssh > 45-72-205-4.cpe.teksavvy.com.51699: Flags [P.], seq 128:192, ack 1, win 63072, length 64
+17:39:04.845229 IP 138.197.174.160.ssh > 45-72-205-4.cpe.teksavvy.com.51699: Flags [P.], seq 192:320, ack 1, win 63072, length 128
+17:39:04.845302 IP 138.197.174.160.ssh > 45-72-205-4.cpe.teksavvy.com.51699: Flags [P.], seq 320:384, ack 1, win 63072, length 64
+17:39:04.845641 IP 138.197.174.160.50355 > dns.google.domain: 18061+ PTR? 4.205.72.45.in-addr.arpa. (42)
+5 packets captured
+22 packets received by filter
+0 packets dropped by kernel

@@ -1,0 +1,10 @@
+17:49:56.397570 IP 138.197.174.160.ssh > 45-72-205-4.cpe.teksavvy.com.51699: Flags [P.], seq 263920:264112, ack 161, win 63072, length 192
+17:49:56.397655 IP 138.197.174.160.ssh > 45-72-205-4.cpe.teksavvy.com.51699: Flags [P.], seq 264112:264304, ack 161, win 63072, length 192
+17:49:56.397721 IP 138.197.174.160.ssh > 45-72-205-4.cpe.teksavvy.com.51699: Flags [P.], seq 264304:264496, ack 161, win 63072, length 192
+17:49:56.397783 IP 138.197.174.160.ssh > 45-72-205-4.cpe.teksavvy.com.51699: Flags [P.], seq 264496:264688, ack 161, win 63072, length 192
+17:49:56.397842 IP 138.197.174.160.ssh > 45-72-205-4.cpe.teksavvy.com.51699: Flags [P.], seq 264688:264880, ack 161, win 63072, length 192
+17:49:56.403621 IP 45-72-205-4.cpe.teksavvy.com.51699 > 138.197.174.160.ssh: Flags [P.], seq 161:225, ack 258224, win 64240, length 64
+^C
+1388 packets captured
+1389 packets received by filter
+0 packets dropped by kernel

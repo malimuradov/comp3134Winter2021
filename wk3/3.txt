@@ -1,0 +1,12 @@
+ping www.jacobs.com
+
+Pinging www.jacobs.com [107.22.178.157] with 32 bytes of data:
+Reply from 107.22.178.157: bytes=32 time=54ms TTL=37
+Reply from 107.22.178.157: bytes=32 time=52ms TTL=37
+Reply from 107.22.178.157: bytes=32 time=53ms TTL=37
+Reply from 107.22.178.157: bytes=32 time=51ms TTL=37
+
+Ping statistics for 107.22.178.157:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 51ms, Maximum = 54ms, Average = 52ms

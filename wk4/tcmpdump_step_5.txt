@@ -1,0 +1,16 @@
+...
+0x0ae0:  4c25 5372 1576 b19d 99b8 6e5f ca52 d8bd  L%Sr.v....n_.R..
+        0x0af0:  d35b 496b a567 b42e 9ca6 2d6a 0453 c8fe  .[Ik.g....-j.S..
+        0x0b00:  c09e ab35 9caa 57d8 8bc9 55c4 a2a6 b43d  ...5..W...U....=
+        0x0b10:  1668 a3f5 908b 559e eb4a aaa0 a5c8 2dab  .h....U..J....-.
+        0x0b20:  f777 c03f 9e09 4dff 10a9 ac8b f2ac 05d0  .w.?..M.........
+        0x0b30:  449c ce42 eef7 16dc 94b6 68ad 1245 b931  D..B......h..E.1
+        0x0b40:  c3c3 29da 518e 9ca3 23c5 d7f7 d7f2 c41e  ..).Q...#.......
+        0x0b50:  d5c5 7125 1bd5 1b8c d038 5313 4f46 0a6f  ..q%.....8S.OF.o
+        0x0b60:  25b0 3346 f67e e5ce cd74 4f80 81eb 4b9e  %.3F.~...tO...K.
+        0x0b70:  f780 b867 e845 efee bb05 61b1 f04d e81b  ...g.E....a..M..
+        0x0b80:  d5c9 a526 a2ae 50ab 3be9 d053 f181       ...&..P.;..S..
+
+348 packets captured
+1280 packets received by filter
+905 packets dropped by kernel
