@@ -1,0 +1,2 @@
+in the first solution user input displays as it is, so harmful scripts can be executed
+2nd solution sanitizes the input and displays as string

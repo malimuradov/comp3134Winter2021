@@ -1,0 +1,4 @@
+1)gives correct answer
+2)gives missplelling error
+3)gives noresult and converts %27 to '
+4)keeps %27 as it is in url
